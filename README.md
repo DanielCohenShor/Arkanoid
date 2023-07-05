@@ -1,2 +1,2 @@
-# ArknoidOOP
-create arknoid in java
+# Arkanoid
+simple arkanoid game in java
